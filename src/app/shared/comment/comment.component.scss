@@ -1,0 +1,9 @@
+td:first-child {
+  width: 25%;
+}
+
+th:nth-child(2),
+td:nth-child(2) {
+  width: 20%;
+  padding: 0 15px;
+}
